@@ -156,7 +156,7 @@ const ProjectDetails = () => {
     );
   }
 
-  const projectUrl = `https://ekizr.com/project/${toSlug(project.Title)}`;
+  const projectUrl = `https://portofolio-rama-liard.vercel.app/project/${toSlug(project.Title)}`;
 
   return (
     <>
