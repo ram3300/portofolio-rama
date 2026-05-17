@@ -146,7 +146,7 @@ const Home = () => {
         <link rel="canonical" href="https://www.instagram.com/ramaaa.______/" />
         <meta property="og:title" content="abbwabul ramadhan — Frontend Web Developer" />
      <meta property="og:description" content="Website resmi dan portofolio abbwabul ramadhan, Front-End Web Developer." />
-        <meta property="og:url" content="https://ekizr.com" />
+        <meta property="og:url" content="https://portofolio-rama-liard.vercel.app/" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
