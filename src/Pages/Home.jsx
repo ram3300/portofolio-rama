@@ -154,11 +154,11 @@ const Home = () => {
             "@type": "Person",
             "name": "abbwabul ramadhan",
             "jobTitle": "Frontend Developer",
-            "url": "https://ekizr.com",
+            "url": "https://portofolio-rama-liard.vercel.app/",
             "sameAs": [
-              "https://github.com/EkiZR",
-              "https://www.linkedin.com/in/ekizr/",
-              "https://www.instagram.com/ekizr_/"
+              "https://github.com/ram3300",
+              "https://www.linkedin.com/in/abbwabul-ramadhan-5658a530a/",
+              "https://www.instagram.com/ramaaa.______/"
             ]
           }
         `}</script>
